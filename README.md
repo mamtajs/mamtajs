@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hello there 😄
 I am Mamta Shah, currently working on developing an IOS application for a startup named Wave Wearables and also working on developing a React based web-application Ping-A-Job to address the problem of staying motivated to apply for jobs especially during the time of COVID.
 
 ### My goto languages: C++ and Python
 Technical skills- C, MySQL, MongoDB, PHP, React, Firebase, HTML, CSS, Javascript.
 
 ### 📫 How to reach me: 
-Personal website: https://mamtashah1312.wixsite.com/mcsuci
-LinkedIn Profile: https://www.linkedin.com/in/mamta-shah13/
+Personal website: https://mamtashah1312.wixsite.com/mcsuci  
+LinkedIn Profile: https://www.linkedin.com/in/mamta-shah13/  
 Email: mamtajs@uci.edu
 
 <!--
