@@ -1,5 +1,5 @@
 ### Hello there 😄
-I am Mamta Shah, I am a person who seeks out learning and responsibility. I love to learn new technologies just for the fun of it! I love to take ownership of my work as it gives me a sense of satisfaction.
+I am Mamta, I am a person who seeks out learning and responsibility. I love to learn new technologies just for the fun of it! I love to take ownership of my work as it gives me a sense of satisfaction.
 
 👩‍💻 I’m currently working on developing an IOS application for a startup named Wave Wearables and also working on developing a React based web-application Ping-A-Job to address the problem of staying motivated to apply for jobs especially during the time of COVID.
 
